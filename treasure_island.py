@@ -42,6 +42,6 @@ if direction.lower() == "left":
             print("Your greed has taken the best of you. Now spend eternity with Grim Reaper")
             print("You lost! Game over")
     else:
-        print("You dived into the ocean and got swollowed by a large sea creature! Game over!")
+        print("You dived into the ocean and got swallowed by a large sea creature! Game over!")
 else:
     print("Ohh No! You fell into a hole and died! Game over!")
